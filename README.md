@@ -42,5 +42,5 @@ Los datos de opendata.bcn.cat son (CC BY 3.0: It allows any exploitation of the 
 
 Los datos de insideairbnb.com son (Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication")
 
-El código fuente en este repositorio es (Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication")
+El código fuente y la presentación en este repositorio es (Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication")
 
