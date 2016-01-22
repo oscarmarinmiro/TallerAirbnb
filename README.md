@@ -1,7 +1,6 @@
-RECURSOS
-========
+#RECURSOS
 
-#Listado de equipamientos en Barcelona (OpenDataBCN)
+###Listado de equipamientos en Barcelona (OpenDataBCN)
 
 Educacion http://opendata.bcn.cat/opendata/en/catalog/EDUCACIO/equipamenteducacio/
 
@@ -23,5 +22,5 @@ Listado de Environment facilities http://opendata.bcn.cat/opendata/en/catalog/ME
 
 Trasnsport facilities http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/equipamenttransportsiserveisrelacionats
 
-#Los mismos equipamientos, parseados a geojon y CSV
+###Los mismos equipamientos, parseados a geojon y CSV
 
