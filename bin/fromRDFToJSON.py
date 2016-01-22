@@ -10,7 +10,7 @@ import json
 
 FILE_IN = "../assets/allotjament.rdf"
 
-FILE_OUT = "../data/allotjament.json"
+FILE_OUT = "../data/1_allotjament.json"
 
 
 def makeGeoJSON(myList):

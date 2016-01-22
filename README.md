@@ -24,3 +24,7 @@ Trasnsport facilities http://opendata.bcn.cat/opendata/en/catalog/TRANSPORT/equi
 
 ###Los mismos equipamientos, parseados a geojon y CSV
 
+https://github.com/hackbdw14/hackatonData/tree/master/datasets/facilities/data
+
+
+
